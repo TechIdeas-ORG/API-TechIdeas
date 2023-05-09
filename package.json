@@ -1,0 +1,16 @@
+{
+  "name": "TechIdeas-API",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "TechIdeas",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "serialport": "^10.4.0"
+  }
+}
