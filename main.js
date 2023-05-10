@@ -14,7 +14,6 @@ const BD_CONFIG = {
 }
 const connection_bd = mysql.createConnection(BD_CONFIG);
 
-const DELAY = 1000; //ms
 const SERIAL_BAUD_RATE = 9600;
 const fkSensor = 1;
 
